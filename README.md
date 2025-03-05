@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Stock Price Prediction
 
 A simple Streamlit app template for you to modify!
 
